@@ -1,0 +1,83 @@
+.navegacion li:hover {
+
+    background-color: gray;
+    padding: 34px;
+
+}
+
+.navegacion .login:hover{
+
+    background-color: gray;
+ padding: auto;
+ padding-bottom: -20px;
+
+
+}
+
+
+.navegacion li {
+
+    color: black;
+    border: 0px solid;
+    padding: 34px;
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+#cuerpo {
+
+    background-color: black;
+
+
+}
+
+.barra {
+
+    background-color: white;
+    margin-left: -10px;
+    margin-right: -5px;
+    margin-top: -16px;
+    height: 90px;
+}
+
+
+.logo {
+
+    margin: 3px;
+    float: left;
+    width: 80px;
+    height: 80px;
+
+
+
+}
+
+
+.login {
+
+    float: right;
+    margin-right:0px;
+    margin-top: -30px;
+   
+
+}
+
+
+.logo-login {
+
+
+
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    padding-top:10px;
+    margin-bottom: -px;
+    
+
+
+}
